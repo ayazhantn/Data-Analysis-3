@@ -4,6 +4,6 @@
 
 👩‍🏫 The chosen occupation for the assignment is "Teacher Assistants" under occupation code = 2540.
 
-🤖 Note. AI was used to assist with the code for this assignment.
+🤖 Note. AI was used to assist with the code and report for this assignment.
 
 🤝 Note. Discussions with Tatyana Yakushina, Asset Kabdula were carried out for this assignment.
