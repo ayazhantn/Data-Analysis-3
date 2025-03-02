@@ -6,4 +6,4 @@ The chosen occupation for the assignment is "Teacher Assistants" under occupatio
 
 🤖 Note. AI was used to assist with the code for this assignment.
 
-🤝 Note. Note. Discussions with Tatyana Yakushina were carried out for this assignment.
+🤝 Note. Discussions with Tatyana Yakushina were carried out for this assignment.
